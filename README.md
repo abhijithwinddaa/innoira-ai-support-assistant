@@ -2,6 +2,11 @@
 
 A full-stack AI-powered support assistant that answers user questions based on product documentation, maintains session-wise context, and stores all conversations in SQLite.
 
+## 🔗 Live Demo
+
+- **Frontend:** [https://innoiraassignment.netlify.app](https://innoiraassignment.netlify.app)
+- **Backend API:** [https://innoira-ai-support-assistant.onrender.com](https://innoira-ai-support-assistant.onrender.com/api/health)
+
 ## 🧠 Tech Stack
 
 | Layer | Technology |
