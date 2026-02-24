@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Reset Password",
+        "content": "Users can reset their password by going to Settings > Security > Reset Password. A password reset link will be sent to the registered email address. The link is valid for 24 hours."
+    },
+    {
+        "title": "Refund Policy",
+        "content": "Refunds are allowed within 7 days of purchase. To request a refund, go to Orders > Select Order > Request Refund. Refunds are processed within 3-5 business days."
+    },
+    {
+        "title": "Account Deletion",
+        "content": "To delete your account, go to Settings > Account > Delete Account. Once deleted, all your data will be permanently removed within 30 days. This action is irreversible."
+    },
+    {
+        "title": "Subscription Plans",
+        "content": "We offer three plans: Free (basic features), Pro ($9.99/month with advanced analytics and priority support), and Enterprise (custom pricing with dedicated account manager and SLA)."
+    },
+    {
+        "title": "Contact Support",
+        "content": "You can reach our support team via email at support@company.com, through the in-app live chat (available 9 AM - 6 PM EST), or by calling 1-800-123-4567."
+    },
+    {
+        "title": "Two-Factor Authentication",
+        "content": "Enable 2FA from Settings > Security > Two-Factor Authentication. We support authenticator apps (Google Authenticator, Authy) and SMS verification. 2FA is recommended for all accounts."
+    },
+    {
+        "title": "Data Export",
+        "content": "Users can export their data by going to Settings > Privacy > Export Data. The export includes all personal information, activity logs, and content. The export file is available for download within 24 hours."
+    },
+    {
+        "title": "Billing & Invoices",
+        "content": "Invoices are generated monthly and can be viewed under Settings > Billing > Invoices. Payment methods accepted include credit cards (Visa, MasterCard, Amex) and PayPal."
+    },
+    {
+        "title": "API Access",
+        "content": "API access is available for Pro and Enterprise users. API keys can be generated from Settings > Developer > API Keys. Rate limits are 100 requests/minute for Pro and 1000 requests/minute for Enterprise."
+    },
+    {
+        "title": "Browser Support",
+        "content": "Our application supports the latest versions of Chrome, Firefox, Safari, and Edge. Internet Explorer is not supported. For the best experience, we recommend using Chrome."
+    },
+    {
+        "title": "Mobile App",
+        "content": "Our mobile app is available on iOS (App Store) and Android (Google Play). The app supports all features available on the web version including push notifications."
+    },
+    {
+        "title": "File Upload Limits",
+        "content": "Free users can upload files up to 10MB. Pro users have a 100MB limit. Enterprise users have a 1GB limit. Supported formats include PDF, DOCX, PNG, JPG, and CSV."
+    }
+]

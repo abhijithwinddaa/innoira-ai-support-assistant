@@ -1,0 +1,8 @@
+/* Netlify redirect rules — send all routes to index.html for SPA */
+/*
+  /api/*  https://YOUR_RENDER_URL.onrender.com/api/:splat  200
+*/
+
+/*
+  /*    /index.html   200
+*/
